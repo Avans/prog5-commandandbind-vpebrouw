@@ -1,0 +1,15 @@
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.g.resources
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
