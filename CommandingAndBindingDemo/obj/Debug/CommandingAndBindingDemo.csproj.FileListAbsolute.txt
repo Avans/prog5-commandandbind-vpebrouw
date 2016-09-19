@@ -13,3 +13,17 @@ C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindin
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe.config
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.pdb
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\MainWindow.g.cs
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\App.g.cs
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\MainWindow.baml
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.g.resources
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+D:\School\Vervolgopleiding\PROG5\prog5-commandandbind-vpebrouw\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache
